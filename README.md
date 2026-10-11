@@ -8,6 +8,6 @@ Download packages from [Releases](https://github.com/SmarshMello/Ultimate-Zombie
 
 Server: **cairo-capitol.tun.ply.gg:42994**. Leave **Server Password** blank and turn **Use Steam Relay** off. Multiplayer account credentials are separate. Choose a personal username and password for a new character.
 
-The update feed is signed with RSA-PSS/SHA-256. The private signing key is never distributed. Ordinary approved content changes use the same launcher's **Update Pack** action. Application upgrades are separate verified downloads; no remote scripts are run. Precise supported features and test results belong to each release's notes.
+The update feed is signed with RSA-PSS/SHA-256. The private signing key is never distributed. Ordinary approved content changes use the same launcher's **Update Pack** action. Application-code upgrades open the publisher release page for a manual download; check the published SHA-256 before replacing the executable. The launcher does not execute remote scripts or automatically run downloaded update binaries. Precise supported features and test results belong to each release's notes.
 
 Full-pack authenticated local multiplayer and public UDP forwarding have passed. Full-pack authenticated public gameplay and independent outside-network gameplay remain unverified. Hysteria and multiplayer-incompatible grass are not enabled in this pack. First startup can take several minutes while the model packs load.
